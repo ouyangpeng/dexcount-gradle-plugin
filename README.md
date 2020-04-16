@@ -1,3 +1,7 @@
+# 介绍文章
+[【译】Jenkins 集成 APK size 与 dexcount 趋势图](https://www.jianshu.com/p/c5c8528841eb)
+
+
 <h1 align="center">
 	<p>Dexcount Gradle Plugin</p>
     <img src="web/example.png">
